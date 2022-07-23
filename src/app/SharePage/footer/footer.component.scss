@@ -1,0 +1,43 @@
+.container-fluid {
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 6vh;
+}
+
+.footer {
+    overflow: hidden;
+    position: sticky;
+    top: 100%;
+    background-color: black;
+}
+
+h1 {
+    color: #fff;
+    font-size: 20px;
+}
+
+a {
+    color: bisque;
+    text-decoration: none;
+    padding: 0 5px;
+    margin: 0;
+    font-size: 18px;
+}
+
+a:hover {
+    color: #ad1358;
+}
+
+i {
+    padding: 10px;
+}
+
+.row {
+    position: relative;
+    top: 25%;
+    justify-content: center;
+    align-items: center;
+    cursor: default;
+}

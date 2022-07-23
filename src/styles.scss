@@ -6,6 +6,12 @@
     margin: 0;
 }
 
+:root
+{
+    --primary-crl: #ff0000;
+}
+
 body {
+    height: 100vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

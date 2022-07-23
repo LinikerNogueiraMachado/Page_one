@@ -1,0 +1,22 @@
+.contact {
+    display: flex;
+    position: absolute;
+    width: 100%;
+}
+
+.contact-link a{
+    margin: 1vh;
+    padding: 0;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+.link-redes {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 1rem;
+    
+}
